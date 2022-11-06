@@ -133,3 +133,5 @@ _As parcerias multissetoriais_:
 
 _Dados, monitoramento e prestação de contas_: 
 Até 2020, reforçar o apoio à capacitação para os países em desenvolvimento, inclusive para os países menos desenvolvidos e pequenos Estados insulares em desenvolvimento, para aumentar significativamente a disponibilidade de dados de alta qualidade, atuais e confiáveis, desagregados por renda, gênero, idade, raça, etnia, status migratório, deficiência, localização geográfica e outras características relevantes em contextos nacionai.
+
+![IMAGEM DOS 17 OBJETIVOS DA OMS](https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/onu.jpg "OBJETIVOS OMS")
