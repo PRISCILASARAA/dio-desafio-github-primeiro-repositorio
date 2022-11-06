@@ -1,0 +1,5 @@
+Esse é meu primeiro projeto completo no GIT postado no GitHub. 
+Escolhi o tema ''Agenda 2030'' Pois devo publicar conteúdos mais voltados para o desenvolvimendo socio, econômico e sustentável. 
+Busquei treinar algumas tecnicas de edição de texto apresentada pelo Markdown, disponivél no site: https://markdown.net.br/sintaxe-basica/ 
+O exercicio em si foi ótimo e pretendo trabalhar para evoluir mais.
+Esse projeto é o primeiro de muitos. 
